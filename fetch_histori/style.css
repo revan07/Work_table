@@ -1,0 +1,24 @@
+*{
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+p{ color: aliceblue;}
+
+.menu{
+    text-align: center;
+}
+
+button:hover{
+background-color: brown;
+transition: 1s;
+}
+
+.main {
+    float: left;
+    width: 20%;
+    text-align: center;
+  }
+  
+  
