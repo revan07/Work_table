@@ -1,24 +1,50 @@
-*{
-    background-color: blueviolet;
+body {
+    background-color: rgba(208, 226, 43, 0.568);
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
 
-p{ color: aliceblue;}
-
-.menu{
+.asd {
+    background-color: rgba(0, 0, 0, 0.521);
     text-align: center;
 }
 
-button:hover{
-background-color: brown;
-transition: 1s;
+p {
+    color: aliceblue;
 }
 
-.main {
-    float: left;
-    width: 20%;
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.658);
+    transition: 1s;
+}
+
+#color {
+    color: aliceblue;
+}
+
+
+
+.box {
+    width: 60%;
+    padding: 0 20px;
+    margin: 0px auto;
+    background-color:  rgba(0, 0, 0, 0.521);
+
+    /*  border: none;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.363);
+    
+    display: block; */
     text-align: center;
-  }
-  
-  
+}
+
+.content {
+
+    padding: 5px;
+    text-align: center;
+}
+
+#color{
+    color: black;
+}
